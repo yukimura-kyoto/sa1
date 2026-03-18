@@ -8,7 +8,7 @@ public class Ex01 {
         int idade;
 
         IO.println("===============================");
-        IO.println("Olá, cadastre-se na Plataforma");
+        IO.println("Olá, cadastre-se na Escola");
         IO.println("===============================\n");
 
         IO.println("Qual seu nome?");
